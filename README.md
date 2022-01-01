@@ -1,5 +1,8 @@
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
+# [original](https://github.com/dibgerge/ml-coursera-python-assignments).
+
+This is my solutions for [repo](https://github.com/dibgerge/ml-coursera-python-assignments).
 
 ![](machinelearning.jpg)
 
