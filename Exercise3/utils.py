@@ -42,7 +42,8 @@ def sigmoid(z):
     """
     Computes the sigmoid of z.
     """
-    return 1.0 / (1.0 + np.exp(-z))
+    g= 1 / (1 + np.exp(-z))
+    return g
 
 
 class Grader(SubmissionBase):
